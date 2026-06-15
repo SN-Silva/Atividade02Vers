@@ -1,2 +1,4 @@
 # Atividade02Vers
-Atividade a ser realizada para verificação de PR entre os alunos.
+Leandro Sousa Freitas 
+16 anoss
+Criei o arquivo .html.
